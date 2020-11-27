@@ -46,7 +46,7 @@ Obtenemos los datos de la página web para realizar el análisis y demostración
 
 Utilizamos Python para la obtención y manipulación de datos y después descargamos en formato CSV lo datos obtenidos. 
 
-Indicamos los enlaces para consultarlo tanto en Jupyter Notebook:
+Indicamos los enlaces para consultarlo en Jupyter Notebook:
 
  **- Categorías -**
 
