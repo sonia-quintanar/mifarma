@@ -6,11 +6,14 @@ En este proyecto vamos a realizar un análisis de los productos que aparecen en 
 
 El objetivo es verificar qué productos son los que queremos promocionar colocándolos estratégicamente para que el cliente sea lo primero que vea al entrar en la página web https://www.mifarma.es/.
 
+
 **Las categorías que tenemos son:**
 
 ![Categorías](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/Men%C3%BA.png)
 
+
 **Nos centraremos en las 3 secciones que aparecen:**
+
 
 - Top ventas
 
@@ -36,6 +39,7 @@ Con estos datos mifarma podrá tomar decisiones para para garantizar a sus clien
 
 ## Pasos a seguir para el desarrollo del proyecto:
 
+
 **1. Web scrapping:**
 
 Obtener datos de la página web para realizar el análisis y demostración de la experiencia del uso de herramientas. 
@@ -49,16 +53,20 @@ Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 ![búsqueda](https://github.com/sonia-quintanar/mifarma/blob/main/Home/b%C3%BAsqueda.png)
 
 
+
+
 ![menú](https://github.com/sonia-quintanar/mifarma/blob/main/Home/men%C3%BA%20python.png)
 
 
     - Jupyter Notebook:
 
-    https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.ipynb
+https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.ipynb
 
     - PDF:
 
-    https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.pdf
+https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.pdf
+
+
 
 
 **Productos y marcas**
@@ -71,26 +79,31 @@ Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 
     - Jupyter Notebook:
 
-    https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.ipynb
+https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.ipynb
 
     - PDF:
 
-    https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.pdf
+https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.pdf
 
 
 **Por otro lado, se realiza la obtención de todas las marcas que vende mifarma en su página web.**
 
+![marcas excel](https://github.com/sonia-quintanar/mifarma/blob/main/Home/marcas%20excel.png)
+
+
+
    - Excel:
 
-    https://docs.google.com/spreadsheets/d/1PJS1idVMDd9y4txOev9ziN-kRLyCJ2fgMVgIz0numsw/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1PJS1idVMDd9y4txOev9ziN-kRLyCJ2fgMVgIz0numsw/edit?usp=sharing
 
    - Jupyter Notebook:
 
-    https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.ipynb
+https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.ipynb
 
     - PDF:
 
-    https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.pdf
+https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.pdf
+
 
 
 
@@ -100,6 +113,10 @@ Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 Realizamos la manipulación y tratamiento de datos de los CSV descargados anteriormente.
 
 https://docs.google.com/spreadsheets/d/1jIwqrgF0mtsyhZKxfmPhARh7CNM3u_CkAb42c6oLqd8/edit?usp=sharing
+
+![dashboard](https://github.com/sonia-quintanar/mifarma/blob/main/Home/dashboard%20excel.png)
+
+
 
 **Nos encontramos con 4 hojas:**
 
@@ -112,6 +129,7 @@ https://docs.google.com/spreadsheets/d/1jIwqrgF0mtsyhZKxfmPhARh7CNM3u_CkAb42c6oL
  **- Menú Home:** aparecen las categorías del menú.
 
 Las operaciones que se han realizado nos servirán más adelante para realizar búsquedas en una base de datos con MySQL y visualización de datos con Tableau.
+
 
 
 
