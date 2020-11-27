@@ -50,11 +50,6 @@ Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 
  **- Menú -**
 
-![búsqueda](https://github.com/sonia-quintanar/mifarma/blob/main/Home/b%C3%BAsqueda.png)
-
-
-
-
 ![menú](https://github.com/sonia-quintanar/mifarma/blob/main/Home/men%C3%BA%20python.png)
 
 
