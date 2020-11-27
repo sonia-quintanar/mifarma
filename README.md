@@ -2,7 +2,7 @@
 
 # Descripción del proyecto
 
-En este proyecto vamos a realizar un análisis de los productos que aparecen en la página principal. 
+En este proyecto vamos a realizar un análisis de los productos que aparecen en la página principal, la presentación se realizará utilizando GIT.
 
 El objetivo es verificar qué productos son los que queremos promocionar colocándolos estratégicamente para que el cliente sea lo primero que vea al entrar en la página web https://www.mifarma.es/.
 
@@ -28,27 +28,27 @@ El objetivo es verificar qué productos son los que queremos promocionar colocá
 ![Novedad](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/Novedad.png)
 
 
-Analizaremos cuáles son los productos que pertenecen a estas secciones, así como su marca, apartado del menú principal al que pertenecen, precio con y sin descuento. 
+Analizaremos cuáles son los productos que pertenecen a estas secciones, así como su marca, categoría, precio con descuento y sin descuento.
 
-El objetivo final es observar si los productos que aparecen en esta página promocionados corresponden con la estrategia de márketing y ventas que tiene la empresa en mente.
+El objetivo final es observar si los productos que aparecen en esta página promocionados corresponden con la estrategia de marketing y ventas que tiene la empresa en mente.
 
 Este método también puede servir para estudiar a la competencia, averiguando cuáles son los productos que  están promocionando, sus precios y estrategias. 
 
-Con estos datos mifarma podrá tomar decisiones para para garantizar a sus clientes el precio más bajo de cada producto y una amplica gama de productos demandados por los clientes.
+Con estos datos Mifarma podrá tomar decisiones para para garantizar a sus clientes el precio más bajo de cada producto y una amplica gama de productos demandados por los clientes.
 
 
 ## Pasos a seguir para el desarrollo del proyecto:
 
 
-**1. Web scrapping:**
+**1. Web scraping:**
 
-Obtener datos de la página web para realizar el análisis y demostración de la experiencia del uso de herramientas. 
+Obtenemos los datos de la página web para realizar el análisis y demostración de la experiencia del uso de herramientas. 
 
-Utilizo Python para la obtención y manipulación de datos. Después descargo en formato CSV lo datos obtenidos. 
+Utilizamos Python para la obtención y manipulación de datos y después descargamos en formato CSV lo datos obtenidos. 
 
-Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
+Indicamos los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 
- **- Menú -**
+ **- Categorías -**
 
 ![menú](https://github.com/sonia-quintanar/mifarma/blob/main/Home/men%C3%BA%20python.png)
 
@@ -82,7 +82,7 @@ https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.pdf
 
 
 
-**Por otro lado, se realiza la obtención de todas las marcas que vende mifarma en su página web.**
+**Por otro lado, se realiza la obtención de todas las marcas que vende Mifarma en su página web.**
 
 ![marcas excel](https://github.com/sonia-quintanar/mifarma/blob/main/Home/marcas%20excel.png)
 
@@ -114,7 +114,7 @@ https://docs.google.com/spreadsheets/d/1jIwqrgF0mtsyhZKxfmPhARh7CNM3u_CkAb42c6oL
 
 
 
-**Nos encontramos con 4 hojas:**
+**En este documento nos encontramos con 4 hojas:**
 
  **- Dashboard:** conjunto de todos los datos obtenidos.
 
@@ -133,7 +133,9 @@ Las operaciones que se han realizado nos servirán más adelante para realizar b
 
 **3. Creación de base de datos con MySQL:**
 
-Otra opción distinta a excel, es generar una base de datos con distintas tablas para realizar operaciones de consulta con los datos obtenidos anteriormente con Python.
+Otra opción es generar una base de datos con MySQL con distintas tablas para realizar operaciones de consulta con los datos obtenidos anteriormente con Python.
+
+Este es un ejemplo de la creación de la tabla "Novedades" y su contenido:
 
 ![Novedad1](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Novedad1.png)
 ![Novedad2](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Novedad2.png)
@@ -142,9 +144,9 @@ Otra opción distinta a excel, es generar una base de datos con distintas tablas
 
 
 
-*Búsqueda de datos en MySQL con distintos filtros de ejemplo:*
+*Realizamos búsquedas de datos en MySQL con distintos filtros de ejemplo:*
 
-   - Ordenar Top Ventas por precio de mayor a menor:
+   - Ordenar Top Ventas de mayor a menor precio:
 
 ![Top_ventas](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Top%20Ventas%20-%20Odenar%20por%20precio%20desc%20sin%20dto.png)
 
@@ -183,10 +185,10 @@ Podemos observar el precio de todos los productos de las tres secciones ordenado
 
 
 
-**¿Corresponden los datos analizados anteriormente con la estrategia de marketing y ventas deseada de mifarma?**
+**¿Corresponden los datos analizados anteriormente con la estrategia de marketing y ventas deseada de Mifarma?**
 
 **Objetivo:** 
 
-Garantizar a los clientes el precio más bajo del mercado de todos los productos ofertados, ajustando los precios, reduciendo costes, realizando un estudio exhaustivo y optimizando los recursos de mifarma. 
+Garantizar a los clientes el precio más bajo del mercado de todos los productos ofertados, ajustando los precios, reduciendo costes, realizando un estudio exhaustivo y optimizando los recursos de Mifarma. 
 
 
