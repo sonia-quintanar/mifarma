@@ -118,7 +118,9 @@ https://docs.google.com/spreadsheets/d/1jIwqrgF0mtsyhZKxfmPhARh7CNM3u_CkAb42c6oL
 
  **- Dashboard:** conjunto de todos los datos obtenidos.
 
- **- Productos Home:** aparecen los productos que aparecen en la página principal separados por las tres secciones mencionadas anteriormente. Podremos ver también el precio (con descuento y sin descuento), además del porcentaje del descuento aplicado que no aparece visible en la página web.
+ **- Productos Home:** aparecen los productos que aparecen en la página principal separados por las tres secciones mencionadas anteriormente. 
+ 
+ Podremos ver también el precio (con descuento y sin descuento), además del porcentaje del descuento aplicado que no aparece visible en la página web, y el promedio de descuentos por secciones.
 
  **- Marcas Home:** aparacen las marcas de los productos.
 
@@ -156,7 +158,7 @@ Otra opción distinta a excel, es generar una base de datos con distintas tablas
 ![Novedad](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Novedad.png)
 
 
-5. Tableau:
+**4. Tableau:**
 
 Finalmente, procedemos con la parte de visualización de datos. Se puede acceder a través de este enlace:
 
