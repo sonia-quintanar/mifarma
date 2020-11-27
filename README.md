@@ -46,6 +46,12 @@ Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 
  **Menú**
 
+![búsqueda](https://github.com/sonia-quintanar/mifarma/blob/main/Home/b%C3%BAsqueda.png)
+
+
+![menú](https://github.com/sonia-quintanar/mifarma/blob/main/Home/men%C3%BA%20python.png)
+
+
     - Jupyter Notebook:
 
     https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.ipynb
@@ -56,6 +62,12 @@ Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 
 
 **Productos y marcas**
+
+![productos secciones](https://github.com/sonia-quintanar/mifarma/blob/main/Home/productos%20por%20secciones.png)
+
+
+![productos](https://github.com/sonia-quintanar/mifarma/blob/main/Home/productos.png)
+
 
     - Jupyter Notebook:
 
