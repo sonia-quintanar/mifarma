@@ -21,13 +21,67 @@ Este método también puede servir para estudiar a la competencia, averiguando c
 Con estos datos mifarma podrá tomar decisiones para para garantizar a sus clientes el precio más bajo de cada producto y una amplica gama de productos demandados por los clientes.
 
 
-## Desarrollo del proyecto
+## Pasos a seguir para el desarrollo del proyecto:
 
-1. Web Scrapping —> obtener datos para realizar el análisis y demostración del uso de herramientas (Python: obtención y manipulación de datos, me descargo CSV con datos.
-2. Excel —> manipulación y tratamiento de datos de los CSV descargados con Python, nombre separados en la misma celda, separación por pasos con transponer datos de la columna en filas.
-3. Creación de base de datos mifarma y tablas (marcas, top ventas….).
+1. **Web scrapping:
+
+Obtener datos de la página web para realizar el análisis y demostración de la experiencia del uso de herramientas. 
+
+Utilizo Python para la obtención y manipulación de datos. Después descargo en formato CSV lo datos obtenidos. 
+
+Los enlaces tanto para consultar en Jupyter notebook o PDF son los siguientes:
+
+**Menú
+
+Jupyter Notebook:
+https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.ipynb
+
+PDF:
+https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.pdf
+
+
+**Productos y marcas
+
+Jupyter Notebook:
+https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.ipynb
+
+PDF:
+https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.pdf
+
+También se realiza la obtención de todas las marcas que vende mifarma en su página web:
+
+
+
+
+2. **Excel:
+
+Realizamos la manipulación y tratamiento de datos de los CSV descargados anteriormente.
+
+https://docs.google.com/spreadsheets/d/1jIwqrgF0mtsyhZKxfmPhARh7CNM3u_CkAb42c6oLqd8/edit?usp=sharing
+
+Nos encontramos con 4 hojas:
+
+ - Dashboard: conjunto de todos los datos obtenidos.
+
+ - Productos Home: aparecen los productos que aparecen en la página principal separados por las tres secciones mencionadas anteriormente. Podremos ver también el precio (con descuento y sin descuento), además del porcentaje del descuento aplicado que no aparece visible en la página web.
+
+ - Marcas Home: aparacen las marcas de los productos.
+
+ - Menú Home: aparecen las categorías del menú.
+
+Las operaciones que se han realizado nos servirán más adelante para realizar búsquedas en una base de datos con MySQL y visualización de datos con Tableau.
+
+
+3. **Creación de base de datos con MySQL:
+
+Otra opción distinta a excel, es generar una base de datos con distintas tablas para realizar operaciones de consulta con los datos obtenidos anteriormente con Python.
+
+
+
 4. Búsqueda de datos en MySQL para analizar hipótesis.
+
 5. Tableau:
+
 —> Contar cómo se ha hecho todo (capturas)
 —> Gráficos de los resultados (búsquedas MySQL)
 —> Pregunta: ¿Corresponden estos datos con la estrategia de marketing y ventas de mifarma?
