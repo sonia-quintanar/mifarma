@@ -46,7 +46,7 @@ Obtenemos los datos de la página web para realizar el análisis y demostración
 
 Utilizamos Python para la obtención y manipulación de datos y después descargamos en formato CSV lo datos obtenidos. 
 
-Indicamos los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
+Indicamos los enlaces para consultarlo tanto en Jupyter Notebook:
 
  **- Categorías -**
 
@@ -56,10 +56,6 @@ Indicamos los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 - Jupyter Notebook:
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.ipynb
-
-- PDF:
-
-https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.pdf
 
 
 
@@ -76,9 +72,6 @@ https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.ipynb
 
-   - PDF:
-
-https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.pdf
 
 
 
@@ -96,9 +89,6 @@ https://docs.google.com/spreadsheets/d/1PJS1idVMDd9y4txOev9ziN-kRLyCJ2fgMVgIz0nu
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.ipynb
 
-   - PDF:
-
-https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.pdf
 
 
 
