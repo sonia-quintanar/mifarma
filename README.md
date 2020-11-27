@@ -58,11 +58,11 @@ Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 ![menú](https://github.com/sonia-quintanar/mifarma/blob/main/Home/men%C3%BA%20python.png)
 
 
-    - Jupyter Notebook:
+   - Jupyter Notebook:
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.ipynb
 
-    - PDF:
+   - PDF:
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.pdf
 
@@ -77,11 +77,11 @@ https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen
 ![productos](https://github.com/sonia-quintanar/mifarma/blob/main/Home/productos.png)
 
 
-    - Jupyter Notebook:
+   - Jupyter Notebook:
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.ipynb
 
-    - PDF:
+   - PDF:
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.pdf
 
@@ -100,7 +100,7 @@ https://docs.google.com/spreadsheets/d/1PJS1idVMDd9y4txOev9ziN-kRLyCJ2fgMVgIz0nu
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.ipynb
 
-    - PDF:
+   - PDF:
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.pdf
 
