@@ -142,16 +142,16 @@ Otra opción distinta a excel, es generar una base de datos con distintas tablas
 
 *Búsqueda de datos en MySQL con distintos filtros de ejemplo:*
 
-   - Ordenar Top Ventas por precio de mayor a menor:*
+   - Ordenar Top Ventas por precio de mayor a menor:
 
 ![Top_ventas](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Top%20Ventas%20-%20Odenar%20por%20precio%20desc%20sin%20dto.png)
 
-   - Seleccionar los productos de la marca Santiveri de la tabla No te lo puedes perder...*
+   - Seleccionar los productos de la marca Santiveri de la tabla No te lo puedes perder...
 
 ![No_te_lo_puedes_perder](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/No%20te%20lo%20puedes%20perder%20-%20seleccionar%20productos%20marca%20Santiveri.png)
 
 
-   - Seleccionar los productos con un precio de venta mayor de 10 € que pertenezcan a la categoría "Higiene y Salud" o a la categoría "Cosmética y Belleza".*
+   - Seleccionar los productos con un precio de venta mayor de 10 € que pertenezcan a la categoría "Higiene y Salud" o a la categoría "Cosmética y Belleza".
 
 ![Novedad](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Novedad.png)
 
