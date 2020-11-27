@@ -2,15 +2,15 @@
 
 # Descripción del proyecto
 
-En este proyecto, realizamos un análisis de los productos que aparecen en la página principal. 
+En este proyecto vamos a realizar un análisis de los productos que aparecen en la página principal. 
 
 El objetivo es verificar qué productos son los que queremos promocionar colocándolos estratégicamente para que el cliente sea lo primero que vea al entrar en la página web https://www.mifarma.es/.
 
-Las categorías que tenemos son:
+*Las categorías que tenemos son:
 
 ![Categorías](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/Men%C3%BA.png)
 
-Nos centraremos en las 3 secciones que aparecen:
+*Nos centraremos en las 3 secciones que aparecen:
 
 - Top ventas
 ![Top Ventas Home](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/Top%20Ventas.png)
@@ -34,41 +34,44 @@ Con estos datos mifarma podrá tomar decisiones para para garantizar a sus clien
 
 ## Pasos a seguir para el desarrollo del proyecto:
 
-1. **Web scrapping:
+1. *Web scrapping:
 
 Obtener datos de la página web para realizar el análisis y demostración de la experiencia del uso de herramientas. 
 
 Utilizo Python para la obtención y manipulación de datos. Después descargo en formato CSV lo datos obtenidos. 
 
-Los enlaces tanto para consultar en Jupyter notebook o PDF son los siguientes:
+Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 
-**Menú
+ - Menú
 
-Jupyter Notebook:
-https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.ipynb
+    Jupyter Notebook:
+    https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.ipynb
 
-PDF:
-https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.pdf
+    PDF:
+    https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.pdf
 
 
-**Productos y marcas
+ - Productos y marcas
 
-Jupyter Notebook:
-https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.ipynb
+    Jupyter Notebook:
+    https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.ipynb
 
-PDF:
-https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.pdf
+    PDF:
+    https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.pdf
 
-También se realiza la obtención de todas las marcas que vende mifarma en su página web:
 
-Jupyter Notebook:
-https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.ipynb
+Por otro lado, se realiza la obtención de todas las marcas que vende mifarma en su página web.
 
-PDF:
-https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.pdf
+    Excel:
+    https://docs.google.com/spreadsheets/d/1PJS1idVMDd9y4txOev9ziN-kRLyCJ2fgMVgIz0numsw/edit?usp=sharing
 
-Excel:
-https://docs.google.com/spreadsheets/d/1PJS1idVMDd9y4txOev9ziN-kRLyCJ2fgMVgIz0numsw/edit?usp=sharing
+    Jupyter Notebook:
+    https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.ipynb
+
+    PDF:
+    https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.pdf
+
+
 
 2. **Excel:
 
@@ -78,13 +81,13 @@ https://docs.google.com/spreadsheets/d/1jIwqrgF0mtsyhZKxfmPhARh7CNM3u_CkAb42c6oL
 
 Nos encontramos con 4 hojas:
 
- - Dashboard: conjunto de todos los datos obtenidos.
+ - *Dashboard: conjunto de todos los datos obtenidos.
 
- - Productos Home: aparecen los productos que aparecen en la página principal separados por las tres secciones mencionadas anteriormente. Podremos ver también el precio (con descuento y sin descuento), además del porcentaje del descuento aplicado que no aparece visible en la página web.
+ - *Productos Home: aparecen los productos que aparecen en la página principal separados por las tres secciones mencionadas anteriormente. Podremos ver también el precio (con descuento y sin descuento), además del porcentaje del descuento aplicado que no aparece visible en la página web.
 
- - Marcas Home: aparacen las marcas de los productos.
+ - *Marcas Home: aparacen las marcas de los productos.
 
- - Menú Home: aparecen las categorías del menú.
+ - *Menú Home: aparecen las categorías del menú.
 
 Las operaciones que se han realizado nos servirán más adelante para realizar búsquedas en una base de datos con MySQL y visualización de datos con Tableau.
 
@@ -93,7 +96,7 @@ Las operaciones que se han realizado nos servirán más adelante para realizar b
 
 Otra opción distinta a excel, es generar una base de datos con distintas tablas para realizar operaciones de consulta con los datos obtenidos anteriormente con Python.
 
-Búsqueda de datos en MySQL con distintos filtros de ejemplo:
+*Búsqueda de datos en MySQL con distintos filtros de ejemplo:
 
 - Ordenar Top Ventas por precio de mayor a menor:
 
