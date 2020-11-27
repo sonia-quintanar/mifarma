@@ -50,8 +50,14 @@ https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.pdf
 
 También se realiza la obtención de todas las marcas que vende mifarma en su página web:
 
+Jupyter Notebook:
+https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.ipynb
 
+PDF:
+https://github.com/sonia-quintanar/mifarma/blob/main/Marcas/Marcas.pdf
 
+Excel:
+https://docs.google.com/spreadsheets/d/1PJS1idVMDd9y4txOev9ziN-kRLyCJ2fgMVgIz0numsw/edit?usp=sharing
 
 2. **Excel:
 
