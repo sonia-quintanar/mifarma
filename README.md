@@ -183,7 +183,7 @@ Podemos observar el precio de todos los productos de las tres secciones ordenado
 
 
 
-# ¿Corresponden los datos analizados anteriormente con la estrategia de marketing y ventas deseada de mifarma?**
+**¿Corresponden los datos analizados anteriormente con la estrategia de marketing y ventas deseada de mifarma?**
 
 # Objetivo: 
 
