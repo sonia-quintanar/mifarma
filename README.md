@@ -1,4 +1,4 @@
-[logo] (https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/logo.png)
+![logo](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/logo.png)
 
 # Descripción del proyecto
 
@@ -8,19 +8,19 @@ El objetivo es verificar qué productos son los que queremos promocionar colocá
 
 Las categorías que tenemos son:
 
-[Categorías](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/Men%C3%BA.png)
+![Categorías](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/Men%C3%BA.png)
 
 Nos centraremos en las 3 secciones que aparecen:
 
 - Top ventas
-[Top Ventas Home](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/Top%20Ventas.png)
+![Top Ventas Home](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/Top%20Ventas.png)
 
 - No te puedes perder ...
 
-[No te lo puedes perder](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/No%20te%20puedes%20perder.png)
+![No te lo puedes perder](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/No%20te%20puedes%20perder.png)
 
 - Novedad
-[Novedad](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/Novedad.png)
+![Novedad](https://github.com/sonia-quintanar/mifarma/blob/main/Im%C3%A1genes%20Home/Novedad.png)
 
 
 Analizaremos cuáles son los productos que pertenecen a estas secciones, así como su marca, apartado del menú principal al que pertenecen, precio con y sin descuento. 
@@ -97,16 +97,16 @@ Búsqueda de datos en MySQL con distintos filtros de ejemplo:
 
 - Ordenar Top Ventas por precio de mayor a menor:
 
-[Top_ventas](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Top%20Ventas%20-%20Odenar%20por%20precio%20desc%20sin%20dto.png)
+![Top_ventas](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Top%20Ventas%20-%20Odenar%20por%20precio%20desc%20sin%20dto.png)
 
 - Seleccionar los productos de la marca Santiveri de la tabla No te lo puedes perder...
 
-[No_te_lo_puedes_perder] (https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/No%20te%20lo%20puedes%20perder%20-%20seleccionar%20productos%20marca%20Santiveri.png)
+![No_te_lo_puedes_perder] (https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/No%20te%20lo%20puedes%20perder%20-%20seleccionar%20productos%20marca%20Santiveri.png)
 
 
 - Seleccionar los productos con un precio de venta mayor de 10 € que pertenezcan a la categoría "Higiene y Salud" o a la categoría "Cosmética y Belleza".
 
-[Novedad](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Novedad.png)
+![Novedad](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Novedad.png)
 
 
 5. Tableau:
