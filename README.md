@@ -133,6 +133,13 @@ Las operaciones que se han realizado nos servirán más adelante para realizar b
 
 Otra opción distinta a excel, es generar una base de datos con distintas tablas para realizar operaciones de consulta con los datos obtenidos anteriormente con Python.
 
+![Novedad1](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Novedad1.png)
+![Novedad2](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Novedad2.png)
+![Novedad3](https://github.com/sonia-quintanar/mifarma/blob/main/MySQL/Novedad3.png)
+
+
+
+
 *Búsqueda de datos en MySQL con distintos filtros de ejemplo:*
 
    - Ordenar Top Ventas por precio de mayor a menor:*
