@@ -158,7 +158,33 @@ Otra opción distinta a excel, es generar una base de datos con distintas tablas
 
 5. Tableau:
 
-—> Contar cómo se ha hecho todo (capturas)
-—> Gráficos de los resultados (búsquedas MySQL)
-—> Pregunta: ¿Corresponden estos datos con la estrategia de marketing y ventas de mifarma?
-—> Propuestas/Objetivos: Garantizar el precio más bajo del mercado de todos los productos (crear un boot para obtener los precios de los productos de las competencia y asegurarnos que es el precio más bajo.
+Finalmente, procedemos con la parte de visualización de datos. Se puede acceder a través de este enlace:
+
+https://public.tableau.com/profile/sonia7870#!/
+
+
+**Comentarios**
+
+![Categorías](https://github.com/sonia-quintanar/mifarma/blob/main/Tableau/Categor%C3%ADas.png)
+
+
+Observamos que las categorías que más presencia tienen en la página principal son Cosmética y Belleza, Herbolario, Infantil e Higiene y Salud en ese mismo orden, el resto de categorías no tienen presencia.
+
+![Marcas](https://github.com/sonia-quintanar/mifarma/blob/main/Tableau/Marcas.png)
+
+Las marcas que aparecen en la página principal son las que vemos a continuación, siendo Santiveri, Nuxe y Binature las que más presencia tienen.
+
+![Productos](https://github.com/sonia-quintanar/mifarma/blob/main/Tableau/Productos.png)
+
+Podemos observar el precio de todos los productos de las tres secciones ordenados por orden alfabético viendo la relación de precios con y sin descuento y el porcentaje de descuento aplicado a cada producto.
+
+
+Para finalizar, lanzo una pregunta:
+
+**¿Corresponden estos datos con la estrategia de marketing y ventas de mifarma deseada?**
+
+#Objetivo: 
+
+Garantizar a los clientes el precio más bajo del mercado de todos los productos ofertados, ajustando los precios, reduciendo costes, realizando un estudio exhaustivo y optimizando los recursos de mifarma. 
+
+
