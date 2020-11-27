@@ -185,7 +185,7 @@ Podemos observar el precio de todos los productos de las tres secciones ordenado
 
 **¿Corresponden los datos analizados anteriormente con la estrategia de marketing y ventas deseada de mifarma?**
 
-# Objetivo: 
+**Objetivo:** 
 
 Garantizar a los clientes el precio más bajo del mercado de todos los productos ofertados, ajustando los precios, reduciendo costes, realizando un estudio exhaustivo y optimizando los recursos de mifarma. 
 
