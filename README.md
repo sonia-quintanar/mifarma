@@ -48,7 +48,7 @@ Utilizo Python para la obtención y manipulación de datos. Después descargo en
 
 Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 
- **Menú**
+ **- Menú -**
 
 ![búsqueda](https://github.com/sonia-quintanar/mifarma/blob/main/Home/b%C3%BAsqueda.png)
 
@@ -58,18 +58,18 @@ Indico los enlaces para consultarlo tanto en Jupyter Notebook como en PDF:
 ![menú](https://github.com/sonia-quintanar/mifarma/blob/main/Home/men%C3%BA%20python.png)
 
 
-   - Jupyter Notebook:
+- Jupyter Notebook:
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.ipynb
 
-   - PDF:
+- PDF:
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Home/Men%C3%BA%20-%20Submen%C3%BA.pdf
 
 
 
 
-**Productos y marcas**
+**- Productos y marcas -**
 
 ![productos secciones](https://github.com/sonia-quintanar/mifarma/blob/main/Home/productos%20por%20secciones.png)
 
@@ -84,6 +84,7 @@ https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.ipynb
    - PDF:
 
 https://github.com/sonia-quintanar/mifarma/blob/main/Home/Home.pdf
+
 
 
 **Por otro lado, se realiza la obtención de todas las marcas que vende mifarma en su página web.**
