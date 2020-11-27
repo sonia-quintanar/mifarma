@@ -181,11 +181,11 @@ Las marcas que aparecen en la página principal son las que vemos a continuació
 Podemos observar el precio de todos los productos de las tres secciones ordenados por orden alfabético viendo la relación de precios con y sin descuento y el porcentaje de descuento aplicado a cada producto.
 
 
-Para finalizar, lanzo una pregunta:
 
-**¿Corresponden estos datos con la estrategia de marketing y ventas de mifarma deseada?**
 
-#Objetivo: 
+# ¿Corresponden los datos analizados anteriormente con la estrategia de marketing y ventas deseada de mifarma?**
+
+# Objetivo: 
 
 Garantizar a los clientes el precio más bajo del mercado de todos los productos ofertados, ajustando los precios, reduciendo costes, realizando un estudio exhaustivo y optimizando los recursos de mifarma. 
 
