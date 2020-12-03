@@ -174,11 +174,12 @@ Podemos observar el precio de todos los productos de las tres secciones ordenado
 
 
 
+Una vez analizados todos los datos anteriormente, me gustaría plantear la siguiente pregunta:
 
-**¿Corresponden los datos analizados anteriormente con la estrategia de marketing y ventas deseada de Mifarma?**
+**¿Corresponden los datos analizados con la estrategia deseada de Mifarma?**
 
 **Objetivo:** 
 
 Garantizar a los clientes el precio más bajo del mercado de todos los productos ofertados, ajustando los precios, reduciendo costes, realizando un estudio exhaustivo y optimizando los recursos de Mifarma. 
 
-
+**Nota:** Deseo que os haya resultado interesante el análisis, es sólo un ejemplo con los datos que he podido obtener. Es posible que los datos no sean reales al no disponer de toda la información, me gustaría resaltar el proceso realizado y las herramientas utilizadas más que el resultado obtenido.
